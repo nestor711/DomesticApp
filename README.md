@@ -1,7 +1,7 @@
 # DomesticApp
-Una plataforma de servicios Domesticos
-Oscar David Cuaical Lopez
-John Breydi Pasichana Muñoz
+Una plataforma de servicios Domesticos.\
+Oscar David Cuaical Lopez.\
+John Breydi Pasichana Muñoz.\
 Néstor David Heredia Gutierrez
 
 
