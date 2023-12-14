@@ -1,3 +1,16 @@
+# DomesticApp
+Una plataforma de servicios Domesticos
+Oscar David Cuaical Lopez
+John Breydi Pasichana Muñoz
+Néstor David Heredia Gutierrez
+
+
+# Tener en cuenta:
+### `npm install ` para inicializar el proyecto 
+### `npm install react-router-dom` para el enrutamiento de paginas
+### `npm install react-icons` para cargar los iconos
+### `npm start ` para iniciar la pagina en el servidor
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
