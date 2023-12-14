@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+}
+
+.title {
+    font-size: 3em;
+    color: #0077b6; 
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.title:hover {
+    font-size: 5em;
+    color: #00b4d8; 
+    transform: scale(1.1);
+}
