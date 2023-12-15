@@ -31,7 +31,7 @@ const RegistroTrb = () => {
                     </label>
                     {perfil && <img src={perfil} alt="Foto de perfil" className={styles.preview} />}
                     <label>
-                        Imagen de documento de identidad:
+                        Documento:
                         <input type="file" name="imagenDocumento" onChange={handleDocumentoChange} />
                     </label>
                     {documento && <img src={documento} alt="Imagen de documento" className={styles.preview} />}
